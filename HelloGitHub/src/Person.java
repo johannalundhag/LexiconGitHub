@@ -10,7 +10,7 @@ public class Person {
 	}
 	@Override
 	public String toString() {
-		return name+" is "+age+" years.";
+		return name+" is "+age+" years. Yeah right!!!";
 	}
 	
 }
